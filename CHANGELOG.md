@@ -1,5 +1,12 @@
 # ts-essentials
 
+## 9.3.1
+
+### Patch Changes
+
+- 4c45165: Improve the object constraint for `NonEmptyObject<T>` to not allow primitives
+- 66a6169: Improve the `ValueOf` utility type to cover the edge cases
+
 ## 9.3.0
 
 ### Minor Changes
